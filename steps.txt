@@ -1,6 +1,6 @@
-git config --global user.name Tulsi
-git config --global user.email "tulsithakur1729@gmail.com"
-git config --global user.name "Tulsi Thakur"
+git config --global user.name Name
+git config --global user.email "email"
+git config --global user.name "Name" #optional
 touch .gitignore
 git init
 git add .
